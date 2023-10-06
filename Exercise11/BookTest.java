@@ -1,10 +1,6 @@
 package Exercise11;
 import org.junit.jupiter.api.Test;
 
-/**
- * this is a Junit test of book;
- */
-
 class BookTest {
 	
 /**

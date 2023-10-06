@@ -19,7 +19,6 @@ public class Image {
  * new Image(1200, 1000, "large.gif", "high");
  */
 public Image(int height, int width, String source, String quality) {
-	super();
 	this.height = height;
 	this.width = width;
 	this.source = source;

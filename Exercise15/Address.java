@@ -12,12 +12,11 @@ public class Address {
  * @param city: city
  * 
  * ex:
- * 	new Address(23 ,Maple Street, Brookline);
- * 	new Address(5 ,Joye Road, Newton);
- * 	new Áddress(83 ,Winslow Road, Waltham);
+ * 	new Address(23, "Maple Street", "Brookline");
+ * 	new Address(5, "Joye Road", "Newton");
+ * 	new Áddress(83, "Winslow Road", "Waltham");
  */
 	public Address(int houseNumber, String stressName, String city) {
-		super();
 		this.houseNumber = houseNumber;
 		this.stressName = stressName;
 		this.city = city;

@@ -1,6 +1,6 @@
 package Exercise14;
 
-public class Apoint {
+public class APoint {
 	private int hours;
 	private int minutes;
 	private int seconds;
@@ -17,7 +17,7 @@ public class Apoint {
  * 	new Apoint(24,59,59);
  * 
  */
-public Apoint(int hours, int minutes, int seconds) {
+public APoint(int hours, int minutes, int seconds) {
 	this.hours = hours;
 	this.minutes = minutes;
 	this.seconds = seconds;
